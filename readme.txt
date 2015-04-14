@@ -1,6 +1,5 @@
 A simple template linked list. 
-List is singly linked and utilizes "smart nodes": Nodes that do most of the work in the list's methods as opposed to having the list itself executing it's method by using temporary nodes to iterate through the list.
-
+List is singly linked and utilizes "smart nodes" as opposed to implementing linkedlist methods with temporary nodes.
 This list supports the following methods:
 prepend()   //Puts node at the head of list.
 append()    //Puts node at the tail of list
